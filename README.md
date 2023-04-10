@@ -1,4 +1,5 @@
 # CH32V307-Dual-brushless-motor-drive
-CH32V307双无刷电机驱动
+第十八届智能汽车竞赛单车越野N车模CH32V307双FOC电机驱动
+该方案采用CH32V307RCT6 MCU作为控制核心，带两路FOC电机驱动，一路舵机接口，采用官方推荐的CAN总线与主控进行通信
 
 V1.1版本修复了晶振方向错误，并将运放封装由TSSOP8修改为MSOP8
